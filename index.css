@@ -1,0 +1,43 @@
+/* Write your code here */
+.container {
+  background-color: #ffd569;
+  padding: 50px;
+}
+.container11 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+}
+.headElement {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+}
+button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 5px;
+  border: solid transpirent 1px;
+  height: 40px;
+  width: 120px;
+}
+.fruits-Container {
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+}
+.mango,
+.banana {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+span {
+  color: #ffd569;
+  text: bold;
+}
